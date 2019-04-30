@@ -5,7 +5,7 @@ class Scraper
 
   def self.scrape_index_page(index_url)
     {:name => "Ryan Johnson", :location => "New York, NY", :profile_url =>"students/ryan-johnson.html" },
-    {:name => , :location => , :profile_url => },
+    {:name =>"Eric Chu", :location =>"Glenelg", :profile_url =>"Eric Chu"},
     {:name => , :location => , :profile_url => },
     {:name => , :location => , :profile_url => },
   end
